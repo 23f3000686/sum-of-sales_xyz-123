@@ -1,1 +1,3 @@
-# sum-of-sales_xyz-123
+# sum-of-sales
+
+Publish a single-page site that fetches data.csv from attachments, sums its sales column, sets the title to 'Sales Summary 42', displays the total inside #total-sales, and loads Bootstrap 5 from jsdelivr.
